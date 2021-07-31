@@ -1,3 +1,7 @@
 Eric Tucker's Capstone Project
 for Harvard's Data Science Certification
-making some changes for testing new token
+
+Note for Eric:
+If personal token expires, generate a new one on github, then
+install gitcreds packages, run gitcreds_set() command,
+and paste in new token when prompted.
