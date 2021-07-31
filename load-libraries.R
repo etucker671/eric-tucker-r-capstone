@@ -1,0 +1,6 @@
+packages <- c("tidyverse","lubridate","caret","textreadr")
+install.packages(packages)
+library(tidyverse)
+library(lubridate)
+library(caret)
+library(textreadr)
